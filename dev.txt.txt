@@ -1,2 +1,7 @@
 iam vinod
+<<<<<<< HEAD
 hi radha how is ur krishna
+=======
+how about you
+>>>>>>> c5d5f579d144b6a5a1bceb26e4aa9fcd5fc58d25
+ok what are you doing
